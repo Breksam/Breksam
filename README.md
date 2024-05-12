@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://lh6.googleusercontent.com/PgY4aMYLV1rNAoXvRpqJ1vAc_gxK93MgY7NWZ_PnEbRorJSdcpLPJYZUxnSkOneahRrrmpjHx32_R_C5pH60_omomeFTWE9cXO8IHf4TBM7Ygjl4hIIbY3tY3kADiW_Kbqq14ZxZ" width="300"/>
+  <img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" width="300"/>
 </div>
 
 # Hi, I'm Breksam
